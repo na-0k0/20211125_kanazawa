@@ -173,6 +173,7 @@ a {
   position: relative;
 }
 
+
 .box2 {
   grid-column: 2/3;
   grid-row: 1/2;
@@ -196,13 +197,6 @@ a {
   left: 40%;
 }
 
-.box1-img{
-  width: 15%;
-  position: absolute;
-  top: 2%;
-  left: 18%;
-}
-
 .sample-text1 {
   color: white;
   font-size: 15px;
@@ -222,13 +216,6 @@ a {
   position: absolute;
   left: 40%;
   top: 20%;
-}
-
-.box2-img{
-  width: 15%;
-  position: absolute;
-  top: 1%;
-  left: 52%;
 }
 
 .sample-text2 {
@@ -251,12 +238,6 @@ a {
   left: 40%;
 }
 
-.box3-img{
-  width: 15%;
-  position: absolute;
-  top: 50%;
-  left: 52%;
-}
 
 .sample-text3 {
   color: white;
